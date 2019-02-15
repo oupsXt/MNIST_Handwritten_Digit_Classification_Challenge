@@ -5,3 +5,5 @@ MNIST dataset:  Modified National Institute of Standards and Technology database
 
 The MINIST database contains 60,000 training images and 10,000 testing images. Each image is a 28x28 pixel square. 
 
+Keywords: Sklearn, Numpy, Keras, KNN, PCA+KNN, MLP, CNN
+
